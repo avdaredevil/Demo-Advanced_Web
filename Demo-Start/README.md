@@ -21,13 +21,13 @@ _[**Click Here**](../README.md) to go back_
 ### Components
 - Refer to [Google Polymer Elements Catalog](https://elements.polymer-project.org/) for element reference
 - We Used:
-    - _iron-icon
-    - iron-icons [*social icons*]
-    - iron-flex-layout
-    - paper-button
-    - paper-toolbar
-    - paper-header-panel
-    - [highcharts-chart](https://avdaredevil.github.io/highcharts-chart/)_
+    - _iron-icon_
+    - _iron-icons [*social icons*]_
+    - _iron-flex-layout_
+    - _paper-button_
+    - _paper-toolbar_
+    - _paper-header-panel_
+    - _[highcharts-chart](https://avdaredevil.github.io/highcharts-chart/)_
 
 
 ---
